@@ -5,9 +5,6 @@ Forked from [DasKeyboardQClient](https://github.com/wedge206/DasKeyboardQClient)
 
 ____
 
-![Build status](https://img.shields.io/appveyor/ci/wedge206/daskeyboardqclient.svg)
-[![NuGet](https://img.shields.io/nuget/v/DasKeyboardQClient.svg)](https://www.nuget.org/packages/DasKeyboardQClient)
-
 QClient.NET is a lightweight and easy to use .Net client for the DasKeyboard Q API
 
 ## Usage
